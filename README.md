@@ -1,5 +1,7 @@
 # 💬 Messaging App
 
+Link: https://walrus-app-m2k9y.ondigitalocean.app/#/
+
 A full-featured messaging application built with Vue.js on the frontend and a custom Node.js REST API backed by MongoDB. Supports user accounts, friends, group chats, invitations, and more.
 
 ---
